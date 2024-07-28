@@ -1,0 +1,5 @@
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.AssemblyInfoInputs.cache
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.AssemblyInfo.cs
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.csproj.CoreCompileInputs.cache
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.sourcelink.json
