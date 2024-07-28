@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcurrencyMastering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb1eb89dea9a0c7fc33a86faffda88d95ad7881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b522230f2dfc5ea006aa22b66dddc4cb690f401b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcurrencyMastering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcurrencyMastering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

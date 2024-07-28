@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, Worlds!");
+﻿using ConcurrencyMastering.ProducerConsumer;
+
+await ProducerConsumerRunner.Run();

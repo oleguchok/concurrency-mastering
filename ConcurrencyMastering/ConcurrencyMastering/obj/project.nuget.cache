@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FbIMZGXURaU/As/C22orgqk8svhEM6HCayq1DtyOH4JycMTKULUV7x18neRmYi0EC7cXkXSYRgOZabCbvZsZWg==",
+  "dgSpecHash": "1CmDJ/j/P7yYN6fjCyoaN91vF+YiyAxcGYZJhsIWo73jqzf37pGrSvNQ8vqed04QBhDoHfp99X39ZK6p1JF94w==",
   "success": true,
   "projectFilePath": "/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/ConcurrencyMastering.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/olegguchok/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -3,3 +3,13 @@
 /Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.AssemblyInfo.cs
 /Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.csproj.CoreCompileInputs.cache
 /Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.sourcelink.json
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/bin/Debug/net8.0/ConcurrencyMastering
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/bin/Debug/net8.0/ConcurrencyMastering.deps.json
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/bin/Debug/net8.0/ConcurrencyMastering.runtimeconfig.json
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/bin/Debug/net8.0/ConcurrencyMastering.dll
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/bin/Debug/net8.0/ConcurrencyMastering.pdb
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.dll
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/refint/ConcurrencyMastering.dll
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.pdb
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ConcurrencyMastering.genruntimeconfig.cache
+/Users/olegguchok/projects/playground/concurrency-mastering/ConcurrencyMastering/ConcurrencyMastering/obj/Debug/net8.0/ref/ConcurrencyMastering.dll
