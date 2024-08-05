@@ -1,6 +1,6 @@
-﻿using Runner = ConcurrencyMastering.DiningPhilosopher.Runner;
+﻿// await ProducerConsumerRunner.Run();
 
-// await ProducerConsumerRunner.Run();
-// Runner.Run();
+using ConcurrencyMastering.UberRideProblem;
+
 Runner.Run();
 Console.ReadKey();
